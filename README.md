@@ -1,3 +1,19 @@
+What’s Next?
+
+1️⃣ Start Coding Phase 1
+
+AI combat fixes, reinforcement logic, and vehicle theft response.
+Once tested, we’ll move to loot mechanics & roadblocks.
+
+2️⃣ Update the README
+Draft a new README with a clear feature list, setup guide, and roadmap.
+
+3️⃣ Testing Plan
+
+After implementing Phase 1, we’ll: ✔ Run AI combat tests (ensuring they fight back & reinforcements arrive).
+ ✔ Test vehicle theft response (AI should track, engage, and deploy troops).
+ ✔ Enable debug logging to catch any AI behavior bugs.
+
 # Andre-Convoy-Exile
 Andre Convoy Ported over from Epoch
 
